@@ -2,7 +2,7 @@
 
 ![Header](./github-header-image.png)
 
-![Snake animation](ASHTAD/123)
+![Snake animation](https://raw.githubusercontent.com/{ASHTAD123}/{ASHTAD123}/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center"> 
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
