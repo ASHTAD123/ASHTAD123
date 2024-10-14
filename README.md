@@ -1,5 +1,7 @@
 # landingPage
-|Maintenance yes|
+<details>
+|ForTheBadge uses-badges|
 
-.. |Maintenance yes| image:: https://img.shields.io/badge/Maintained%3F-yes-green.svg
-   :target: https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity
+.. |ForTheBadge uses-badges| image:: http://ForTheBadge.com/images/badges/uses-badges.svg
+   :target: http://ForTheBadge.com
+   </details>
