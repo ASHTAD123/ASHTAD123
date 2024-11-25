@@ -1,5 +1,10 @@
 ![Header](./header-image.png)
 
+<h3 align=”center”>
+
+Hi there, I’m <a href=”" target=”_blank” rel=”noreferrer”>Ashtad Irani</a> 👋
+
+</h3>
 
 <p align="center"> 
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
