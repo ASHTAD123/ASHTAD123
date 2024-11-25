@@ -1,10 +1,20 @@
 ![Header](./header-image.png)
 
-<h3 align=”center”>
+<h3 align="center">
+Hi there, I’m <a href="">Ashtad Irani</a> 👋
+<h3>
 
-Hi there, I’m <a href=”" target=”_blank” rel=”noreferrer”>Ashtad Irani</a> 👋
+### 🤝 Connect with me:
 
-</h3>
+
+
+<a href="https://www.linkedin.com/in/ashtad-i-b64146136">
+
+ <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | LinkedIn" width="130px"/>
+ </a>
+
+
+
 
 <p align="center"> 
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
