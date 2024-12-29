@@ -1,31 +1,6 @@
-![Header](./header-image.png)
-
 <h3 align="center">
 Hi there, I’m <a href="">Ashtad Irani</a> 👋
 <h3>
-
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/ashtad-i-b64146136">
-<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ashtad Irani| LinkedIn" width="120px"/>
-</a>
-
-<a href="mailto:ashtadcyrusirani@gmail.com">
-   <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ashtad Irani | Gmail" width="100px"/>
-</a>
-
-<br> <br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-
-## 🔭 I'm currently working on
-
-- Java 8
-- Spring Boot
-
-## 🌱 I'm currently learning
-- Java Script
-- React Js
 
 ## 💼 Technical Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,8 +12,32 @@ Hi there, I’m <a href="">Ashtad Irani</a> 👋
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/ashtad-i-b64146136">
+<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ashtad Irani| LinkedIn" width="120px"/>
+</a>
+
+<a href="mailto:ashtadcyrusirani@gmail.com">
+   <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ashtad Irani | Gmail" width="100px"/>
+</a>
+
+<br><br>
+## 🔭 I'm currently working on
+
+- Java 8
+- Spring Boot
+
+
+## 🌱 I'm currently learning
+
+- Java Script
+- React Js
+
+
 
 <h2 align="center"><a href="https://github.com/ASHTAD123"><img alt="Star" width=20% src="https://raw.githubusercontent.com/ASHTAD123/ASHTAD123/ouput/star.gif"><img width=80% alt="My Stats" src="./img/mystats.svg"/></a></h2>
+
 <div align="center">
    <a href="https://github.com/ASHTAD123">
    <img src="https://github-readme-stats.vercel.app/api?username=ASHTAD123&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=49% height=100%/>
@@ -48,6 +47,7 @@ Hi there, I’m <a href="">Ashtad Irani</a> 👋
    <br/>
    </a>
 </div>
+![Header](./header-image.png)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ASHTAD123&theme=onedark)](https://github.com/ASHTAD123/github-profile-trophy)
 
@@ -64,3 +64,6 @@ Hi there, I’m <a href="">Ashtad Irani</a> 👋
 <!--<a href="https://u8views.com/github/ASHTAD123"><img src="https://u8views.com/api/v1/github/profiles/38254097/views/day-week-month-total-count.svg"></a>-->
 
 <!-- [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) -->
+
+<br> <br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
