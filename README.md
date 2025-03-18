@@ -25,13 +25,12 @@ Hi there, I’m <a href="">Ashtad Irani</a> 👋
 <br><br>
 ## 🔭 I'm currently working on
 
-- Java 8
 - Spring Boot
 
 
 ## 🌱 I'm currently learning
 
-- Java Script
+- Java 8
 - React Js
 
 
