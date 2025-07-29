@@ -25,14 +25,13 @@ Hi there, I’m <a href="">Ashtad Irani</a> 👋
 <br><br>
 ## 🔭 I'm currently working on
 
-- Spring Boot
-
+- Java Spring Boot
 
 ## 🌱 I'm currently learning
 
-- Java 8
-- React Js
-
+- Java OCA 8 Certification
+- Spring Security
+- JWT Authentication
 
 
 <h2 align="center"><a href="https://github.com/ASHTAD123"><img alt="Star" width=20% src="https://raw.githubusercontent.com/ASHTAD123/ASHTAD123/ouput/star.gif"><img width=80% alt="My Stats" src="./img/mystats.svg"/></a></h2>
