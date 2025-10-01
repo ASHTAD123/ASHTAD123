@@ -24,8 +24,7 @@ Hi there, I’m <a href="">Ashtad Irani</a> 👋
 
 <br><br>
 ## 🔭 I'm currently working on
-
-- 
+- Upskilling
 
 ## 🌱 I'm currently learning
 
