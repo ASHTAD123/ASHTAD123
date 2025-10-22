@@ -28,7 +28,7 @@ Hi there, I’m <a href="">Ashtad Irani</a> 👋
 
 ## 🌱 I'm currently learning
 
-- Java OCA 8 Certification
+- Full Stack Web Dev
 - WEB 3
 
 
