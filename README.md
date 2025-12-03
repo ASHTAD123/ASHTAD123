@@ -14,7 +14,7 @@ Hi there, I’m <a href="">Ashtad Irani</a> 👋
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/ashtad-i-b64146136">
+<a href="https://www.linkedin.com/in/ashtadirani/">
 <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ashtad Irani| LinkedIn" width="120px"/>
 </a>
 
