@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ASHTAD CODER</h1>
-<h3 align="center">A passionate MERN Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm ASHTAD </h1>
+<h3 align="center">Passionate in I.T </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashtad123&label=Profile%20views&color=0e75b6&style=flat" alt="ashtad123" /> </p>
 
@@ -9,9 +9,9 @@
 
 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Cloud Computing**
 
-- 🤝 I’m looking for help with **JAVA**
+- 🤝 I’m looking for help with **Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ASHTAD123?tab=repositories](https://github.com/ASHTAD123?tab=repositories)
 
